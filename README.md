@@ -1,2 +1,10 @@
-# smart-home-guide
-Best smart home devices, setup guides, and automation ideas for beginners. https://smartzenhome.com
+# Smart Zen Home 👋
+
+Hi, I run a website about smart home technology.
+
+🔗 Website: https://smartzenhome.com
+
+I share:
+- Smart home guides
+- Device reviews
+- Automation tips
